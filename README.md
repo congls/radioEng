@@ -1,1 +1,1 @@
-These programs are used to generate the result of our papers **Power Control for Cell-Edge User in NOMA Ultra Dense Networks** in RadioEngineering
+These programs are used to generate the result of our papers_ Sinh Cong Lam, Nam Hoang Nguyen ,Trong Minh Hoang , Kumbesan Sandrasegaran_**Power Control for Cell-Edge User in NOMA Ultra Dense Networks** in RadioEngineering
